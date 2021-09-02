@@ -1,5 +1,6 @@
 This is my README.md file.
 I think I did it right. Cool. 
+Email: ian.burley@student.judsonu.edu
 
 <!--
 **IanBurley/IanBurley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
