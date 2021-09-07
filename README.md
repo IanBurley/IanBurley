@@ -1,7 +1,10 @@
-This is my README.md file.
-I think I did it right. Cool. 
+- 🔭 I’m currently working on a computer science degree
+- 🌱 I’m currently learning how to program
+- 👯 I’m looking to collaborate on many assignments
+- 🤔 I’m looking for help with assignments
+- 💬 Ask me about cars
+- 📫 How to reach me: ian.burley@student.judsonu.edu
 
-Email: ian.burley@student.judsonu.edu
 
 <!--
 **IanBurley/IanBurley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
