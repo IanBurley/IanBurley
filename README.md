@@ -1,7 +1,7 @@
 - 🔭 I’m currently working on a computer science degree
 - 🌱 I’m currently learning how to program
 - 👯 I’m looking to collaborate on many assignments
-- 🤔 I’m looking for help with assignments
+- 🤔 I’m looking for constructive criticism on code
 - 💬 Ask me about cars
 - 📫 How to reach me: ian.burley@student.judsonu.edu
 
