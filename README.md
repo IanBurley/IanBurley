@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning how to use Git Hub and linux
 - 👯 I’m looking to collaborate on many projects
 - 🤔 I’m looking for constructive criticism on code
-- 💬 Ask me about cars
+- 💬 Ask me about cars and photography
 - 📫 How to reach me: ian.burley@student.judsonu.edu
 
 
