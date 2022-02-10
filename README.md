@@ -1,9 +1,10 @@
-- 🔭 I’m currently working on a computer science degree
-- 🌱 I’m currently looking for a innovative personal project
-- 🤔 I’m looking for constructive criticism on code
-- 💬 Ask me about cars and photography
-- 📫 How to reach me: ianburley2019@gmial.com
-- My photography website: https://ianburley.myportfolio.com
+-I’m currently working on a computer science degree
+-I’m currently looking for a innovative personal project
+-I currently have experience in C, C++, Python, and java
+-I’m looking for constructive criticism on code
+-Ask me about cars and photography
+-How to reach me: ianburley2019@gmial.com
+-My photography website: https://ianburley.myportfolio.com
 
 
 <!--
