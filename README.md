@@ -1,6 +1,5 @@
 - 🔭 I’m currently working on a computer science degree
-- 🌱 I’m currently learning how to use Git Hub
-- 👯 I’m looking to collaborate on many projects
+- 🌱 I’m currently looking for a innovative personal project
 - 🤔 I’m looking for constructive criticism on code
 - 💬 Ask me about cars and photography
 - 📫 How to reach me: ianburley2019@gmial.com
