@@ -8,7 +8,7 @@
 
 -Ask me about cars and photography
 
--How to reach me: ianburley2019@gmial.com
+-How to reach me: ianburley2019@gmail.com
 
 -My photography website: https://ianburley.myportfolio.com
 
