@@ -1,16 +1,4 @@
--I’m currently working on a computer science degree
-
--I’m currently looking for an innovative personal project
-
--I currently have experience in C, C++, Python, and java
-
--I’m looking for constructive criticism on code
-
--Ask me about cars and photography
-
--How to reach me: ianburley2019@gmail.com
-
--My photography website: https://ianburley.myportfolio.com
+I enjoy breaking down problems and finding practical solutions—whether that means simplifying a piece of code or streamlining a workflow. Critical thinking helps me look at each step and consider different approaches. I’m motivated by making processes a bit more efficient and reliable, knowing that small improvements add up over time.
 
 
 <!--
